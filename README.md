@@ -1,6 +1,6 @@
 <h2 align="center">
-  ササキ　アツシ<br/>
-  <a href="" target="_blank">ササキ.in</a>
+  Jhonatan Elizabeth<br/>
+  <a href="" target="_blank">Jhonatan.in</a>
 </h2>
 <h4 align="center">Portfolio Website</h4>
 <div align="center">
@@ -74,7 +74,7 @@ Give a ⭐ if you like this website!
 <a href="" target="_blank"><img src="" alt="Buy Me A Coffee" height= "40px" width= "130px" ></a>
 
 # Contributors <a id="contributors"></a>
-  - Boris Edison<br> 
+  - Jhonatan Elizabeth<br> 
   [![Github]()]()
 
 # License  <a id="license"></a>
@@ -83,6 +83,6 @@ Code released under the
 [MIT]() license
 
 
-Built by <a href="">@ササキ　アツシ</a> for his own portfolio. ****. You are allowed to use this webpage for both personal and commercial use, but **NOT** to claim it as your own design. **A credit to the original author, Boris Edison, is a must!**
+Built by <a href="">@Jhonatan Elizabeth</a> for his own portfolio. ****. You are allowed to use this webpage for both personal and commercial use, but **NOT** to claim it as your own design. **A credit to the original author, Boris Edison, is a must!**
 
 I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
